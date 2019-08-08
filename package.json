@@ -42,7 +42,7 @@
   "homepage": "https://github.com/mulesoft/js-client-oauth2",
   "devDependencies": {
     "body-parser": "^1.15.2",
-    "browserify": "^16.1.1",
+    "browserify": "16.3.0",
     "chai": "^4.1.2",
     "cors": "^2.8.1",
     "envify": "^4.0.0",
